@@ -1,2 +1,2 @@
 # robotbuilder
-robot builder using pytho
+robot builder using python
